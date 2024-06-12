@@ -1,0 +1,14 @@
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Projeto C#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll
